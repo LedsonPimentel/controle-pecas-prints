@@ -2,6 +2,3 @@ streamlit
 pandas
 xlsxwriter
 python-dotenv
-git add .
-git commit -m "Fix: Install xlsxwriter to resolve ExcelWriter error"
-git push origin main
